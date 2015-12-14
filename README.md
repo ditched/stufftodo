@@ -10,4 +10,9 @@ A list of things I need to do so I don't forget.
 - [ ] Finish TurboMC
 - [ ] Remake short.pw
 - [ ] Fix issue with spatula
-
+- [ ] Work on PTPBot v5
+- [ ] Work on skype-event
+- [ ] Work on pose
+- [ ] Work on konnect
+- [ ] Work on node-skype
+- [ ] Work on dns-check v2
